@@ -36,3 +36,22 @@
     "layout/archive",
     "layout/sidebar"
 ;
+/* Keep all header links visible on phones (instead of moving them into the ☰ menu) */
+@media (max-width: 600px) {
+  .masthead__menu-item--lg {
+    padding-right: 0.5em;
+  }
+  .greedy-nav a {
+    margin: 0 0.55rem;
+    font-size: 0.95em;
+  }
+}
+@media (max-width: 380px) {
+  .masthead__menu-item--lg {
+    padding-right: 0.25em;
+  }
+  .greedy-nav a {
+    margin: 0 0.4rem;
+    font-size: 0.9em;
+  }
+}
