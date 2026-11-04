@@ -19,6 +19,11 @@ Since 2020, I have been a researcher at ResearchNLP, where I collect, clean, and
 
 Recently, I have been designing and building AI-assisted web services end to end, from problem definition and data design to the user interface. See the [Portfolio](/portfolio/) for examples.
 
+Education
+======
+* **M.S. in Library and Information Science**, Yonsei University, 2026 – present
+* **B.A. in English Language and Literature** (Minor: Public Administration), Ewha Womans University, 2008
+
 Research Interests
 ======
 * Human-AI interaction and trust in AI-generated information

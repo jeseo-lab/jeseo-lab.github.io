@@ -23,7 +23,7 @@ repository               : "jeseo-lab/jeseo-lab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Jieun Seo (서지은)"
   pronouns         : "she/her"
   bio              : "M.S. student in Library and Information Science · Human-AI Interaction, Quantitative Analysis, ESG"
