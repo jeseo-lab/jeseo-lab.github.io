@@ -11,54 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Library and Information Science**, Yonsei University, Seoul, Sep 2026 – present
+  * SNIS Lab (Prof. Ji-Hong Park)
+* **B.A. in English Language and Literature** (Minor: Public Administration), Ewha Womans University, Seoul, Mar 2002 – Feb 2008
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Human-AI interaction
+* Quantitative analysis
+* ESG
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work Experience
+======
+* **Researcher**, ResearchNLP, Aug 2020 – present
+  * Collected, cleaned, and analyzed text data for research projects
+  * Supported a Korea Labor Institute project through web-crawling-based data collection
+  * Produced data visualizations and summarized analysis results in reports
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Staff, Accounting Support Team**, Seoul National University Development Foundation, Mar 2012 – May 2016
+  * Endowment management and fund-operation support
+  * Accounting support and internal/external financial reporting
+
+* **Staff, Trust Department (Client Asset Management Division)**, Korea Investment & Securities, Dec 2007 – Mar 2012
+  * Planned real-estate investment trust operations and wrote reports
+  * Analyzed corporate data and investment assets; managed treasury stock
+  * Managed retirement-pension assets and reported to external institutions
+
+* **Intern, Research – Asset Strategy Department**, Korea Investment & Securities, Jul 2007 – Aug 2007
+  * Supported market-trend analysis and small-cap company analysis
+
+Projects
+======
+* **LinKross** — Collaboration platform for overseas freelance development (2026, team of 5; UI/UX and freelancer-experience design). [Details](/portfolio/1-linkross/)
+* **StockEcho** — News- and disclosure-based investment decision support service. [Details](/portfolio/2-stockecho/)
+* **Chwimiro (취미로)** — Personalized AI hobby recommendation service. [Details](/portfolio/3-chwimiro/)
+
+Training and Certificates
+======
+* AI-Driven Data Project Course for Service Planners/PMs ("Vibe Coding"), Seoul Software Academy (SeSAC), May – Aug 2026
+* Google Data Analytics Professional Certificate, Google / Coursera, Sep 2021
+* Data Science Course (Foundations), Yonsei University & NAVER Cloud, Jun 2021
+* Derivatives Fund Investment Advisor; Real Estate Fund Investment Advisor, Korea Financial Investment Association, Apr 2009
+* Derivatives Investment Advisor, Korea Financial Investment Association, Jan 2009
+* Securities Fund Investment Advisor, Korea Financial Investment Association, Apr 2008
+* Microsoft Office Specialist (MOS) Master, Microsoft, Oct 2007
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Data analysis:** Python, SQL, R, Tableau; text mining (TF-IDF, Word2Vec, LDA); web crawling
+* **Service development:** Next.js, TypeScript, FastAPI; PRDs, requirements, and data models; prototyping with generative AI
+* **Finance:** Asset and fund management, retirement pensions, market and company analysis
+* **Languages:** Korean (native), English (professional reading)
