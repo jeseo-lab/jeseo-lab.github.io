@@ -1,12 +1,12 @@
 ---
 title: "LinKross"
-excerpt: "A platform that lets early-stage startups without an in-house CTO work with overseas freelance developers, from selection to payment. Team project (5 members), Aug 2026 · My role: UI/UX and freelancer-experience design.<br/><img src='/images/portfolio/linkross-thumb.jpg' alt='LinKross cover slide'>"
+excerpt: "A platform that lets early-stage startups without an in-house CTO work with overseas freelance developers, from selection to payment. Team project (5 members), 2026 · My role: UI/UX and freelancer-experience design.<br/><img src='/images/portfolio/linkross-thumb.jpg' alt='LinKross cover slide'>"
 collection: portfolio
 ---
 
 ![LinKross cover](/images/portfolio/linkross-cover.jpg)
 
-**Period:** Aug 2026  
+**Period:** 2026  
 **Team project (5 members)** · SeSAC "AI-Driven Data Project Course for Service Planners/PMs"  
 **My role:** UI/UX and freelancer-experience design  
 **Code:** [github.com/kimminjunnn/LinKross](https://github.com/kimminjunnn/LinKross)

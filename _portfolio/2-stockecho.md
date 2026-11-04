@@ -1,10 +1,10 @@
 ---
 title: "StockEcho"
-excerpt: "An investment decision-support service that organizes news and disclosures about a user's holdings into events, and links them to past price reactions and portfolio weights. Jul 2026 · My role: planning, back-end/data, and front-end."
+excerpt: "An investment decision-support service that organizes news and disclosures about a user's holdings into events, and links them to past price reactions and portfolio weights. 2026 · My role: planning, back-end/data, and front-end."
 collection: portfolio
 ---
 
-**Period:** Jul 2026  
+**Period:** 2026  
 **Code:** [github.com/kimminjunnn/StockEcho](https://github.com/kimminjunnn/StockEcho)
 
 Overview
