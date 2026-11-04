@@ -4,7 +4,7 @@ excerpt: "A no-install web agent that recommends hobbies based on each user's ti
 collection: portfolio
 ---
 
-**SeSAC mini project** (working title: "Guru Guru")  
+**SeSAC mini project**  
 **Code:** [github.com/jeseo-lab/sesac_mini_project](https://github.com/jeseo-lab/sesac_mini_project)
 
 Overview
