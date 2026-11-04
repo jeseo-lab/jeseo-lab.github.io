@@ -32,5 +32,5 @@ Research Interests
 
 Contact
 ======
-* Email: clovis1023 [at] yonsei.ac.kr
+* Email: [clovis1023@yonsei.ac.kr](mailto:clovis1023@yonsei.ac.kr)
 * SNIS Lab, Department of Library and Information Science, Yonsei University, Seoul, Korea
