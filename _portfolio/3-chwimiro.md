@@ -4,6 +4,9 @@ excerpt: "A no-install web agent that recommends hobbies based on each user's ti
 collection: portfolio
 ---
 
+**SeSAC mini project** (working title: "Guru Guru")  
+**Code:** [github.com/jeseo-lab/sesac_mini_project](https://github.com/jeseo-lab/sesac_mini_project)
+
 Overview
 ------
 Chwimiro uses a short survey and optional free-text input to understand a user's constraints (time, budget, energy, and sociability). It then "prescribes" hobbies, together with a concrete first action and a path to get started.

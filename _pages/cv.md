@@ -44,7 +44,7 @@ Projects
 ======
 * **LinKross** — Collaboration platform for overseas freelance development (2026, team of 5; UI/UX and freelancer-experience design). [Details](/portfolio/1-linkross/)
 * **StockEcho** — News- and disclosure-based investment decision support service. [Details](/portfolio/2-stockecho/)
-* **Chwimiro (취미로)** — Personalized AI hobby recommendation service. [Details](/portfolio/3-chwimiro/)
+* **Chwimiro (취미로)** — Personalized AI hobby recommendation service (SeSAC mini project). [Details](/portfolio/3-chwimiro/) · [Code](https://github.com/jeseo-lab/sesac_mini_project)
 
 Training and Certificates
 ======
