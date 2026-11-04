@@ -1,9 +1,10 @@
 ---
 title: "Chwimiro (취미로)"
-excerpt: "A no-install web agent that recommends hobbies based on each user's time, budget, energy, and social preferences, and suggests a concrete first step. My role: planning, back-end/AI, and front-end."
+excerpt: "A no-install web agent that recommends hobbies based on each user's time, budget, energy, and social preferences, and suggests a concrete first step. Jul 2026 · My role: planning, back-end/AI, and front-end."
 collection: portfolio
 ---
 
+**Period:** Jul 2026  
 **SeSAC mini project**  
 **Code:** [github.com/jeseo-lab/sesac_mini_project](https://github.com/jeseo-lab/sesac_mini_project)
 
