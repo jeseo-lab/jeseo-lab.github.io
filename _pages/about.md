@@ -34,3 +34,12 @@ Contact
 ======
 * Email: [clovis1023@yonsei.ac.kr](mailto:clovis1023@yonsei.ac.kr)
 * SNIS Lab, Department of Library and Information Science, Yonsei University, Seoul, Korea
+
+Beyond Research
+======
+Outside the lab, I love road cycling, especially long autumn rides through the mountains. I also spend a lot of time walking my Shiba Inu puppy.
+
+<div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:0.5em;">
+  <img src="/images/beyond-cycling.jpg" alt="Jieun road cycling on a forest road" style="flex:1 1 220px; max-width:calc(50% - 6px); min-width:200px; border-radius:8px;">
+  <img src="/images/beyond-dog.jpg" alt="Jieun's Shiba Inu puppy on a walk among autumn leaves" style="flex:1 1 220px; max-width:calc(50% - 6px); min-width:200px; border-radius:8px;">
+</div>
