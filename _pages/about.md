@@ -37,9 +37,9 @@ Contact
 
 Beyond Research
 ======
-Outside the lab, I love road cycling, especially long autumn rides through the mountains. I also spend a lot of time walking my Shiba Inu puppy.
+Outside the lab, I love road cycling, especially long autumn rides through the mountains. I also spend a lot of time walking my mame shiba, Bamtol (밤톨, "little chestnut").
 
 <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:0.5em;">
   <img src="/images/beyond-cycling.jpg" alt="Jieun road cycling on a forest road" style="flex:1 1 240px; width:100%; min-width:0; border-radius:8px;">
-  <img src="/images/beyond-dog.jpg" alt="Jieun's Shiba Inu puppy on a walk among autumn leaves" style="flex:1 1 240px; width:100%; min-width:0; border-radius:8px;">
+  <img src="/images/beyond-dog.jpg" alt="Bamtol, Jieun's mame shiba, on a walk among autumn leaves" style="flex:1 1 240px; width:100%; min-width:0; border-radius:8px;">
 </div>
